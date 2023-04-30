@@ -54,6 +54,7 @@ class UnleashMarkerProvider : LineMarkerProvider {
         return LineMarkerInfo(
             element,
             element.textRange,
+            // FIXME: production-ready unleash icon please
             AllIcons.Actions.Annotate,
             { TOOLTIP },
             featureNavigationHandler,
