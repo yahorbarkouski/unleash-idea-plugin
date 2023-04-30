@@ -8,6 +8,10 @@ This IntelliJ plugin provides a seamless integration with the [Unleash](https://
 - Allows you to navigate to the corresponding feature flag on the Unleash website with a single click.
 - Provides an Unleash configuration panel in the IntelliJ settings to set the API URL and API token.
 
+
+https://user-images.githubusercontent.com/94449298/235356737-f41e8342-50fb-497d-8487-0c99d03662d9.mov
+
+
 ## Installation
 
 1. Open IntelliJ IDEA.
